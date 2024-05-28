@@ -1,0 +1,7 @@
+13910 true duplicates
+Dataset after deleteing true duplicates: 54204
+Dataset after deleting subspecies added by GBIF that do not have the species
+name as synonym in TROPICOS: 53594
+14% of records only have dynamic properties column - around 7500 records
+Dataset after removing records with the hightest and lowest latitude and longitude values: 53591
+Final dataset of 53591 records
